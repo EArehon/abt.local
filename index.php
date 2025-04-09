@@ -460,45 +460,45 @@
                 </div>
 
               <div class="form_section_data_row">
-                <div class="form_section_data_row_cell required"><label for="momDocSeries">Серия:</label></div>
-                <div class="form_section_data_row_cell"><input type="text" class="form_data" name="momDocSeries" placeholder="Серия"></div>
+                <div class="form_section_data_row_cell required"><label for="dadDocSeries">Серия:</label></div>
+                <div class="form_section_data_row_cell"><input type="text" class="form_data" name="dadDocSeries" placeholder="Серия"></div>
               </div>
               <div class="form_section_data_row">
-                <div class="form_section_data_row_cell required"><label for="momDocNumber">Номер:</label></div>
-                <div class="form_section_data_row_cell"><input type="text" class="form_data" name="momDocNumber" placeholder="Номер"></div>
+                <div class="form_section_data_row_cell required"><label for="dadDocNumber">Номер:</label></div>
+                <div class="form_section_data_row_cell"><input type="text" class="form_data" name="dadDocNumber" placeholder="Номер"></div>
               </div>
               <div class="form_section_data_row">
-                <div class="form_section_data_row_cell required"><label for="momDocUniqueNumber">Личный номер:</label></div>
-                <div class="form_section_data_row_cell"><input type="text" class="form_data" name="momDocUniqueNumber" placeholder="Личный номер"></div>
+                <div class="form_section_data_row_cell required"><label for="dadDocUniqueNumber">Личный номер:</label></div>
+                <div class="form_section_data_row_cell"><input type="text" class="form_data" name="dadDocUniqueNumber" placeholder="Личный номер"></div>
               </div>
               <div class="form_section_data_row">
-                <div class="form_section_data_row_cell required"><label for="momDocDateIssuance">Дата выдачи:</label></div>
-                <div class="form_section_data_row_cell"><input type="date" class="form_data" name="momDocDateIssuance" placeholder="Дата выдачи"></div>
+                <div class="form_section_data_row_cell required"><label for="dadDocDateIssuance">Дата выдачи:</label></div>
+                <div class="form_section_data_row_cell"><input type="date" class="form_data" name="dadDocDateIssuance" placeholder="Дата выдачи"></div>
               </div>
               <div class="form_section_data_row">
-                <div class="form_section_data_row_cell required"><label for="momDocIssuingAuthority">Кем выдан:</label></div>
-                <div class="form_section_data_row_cell"><input type="text" class="form_data" name="momDocIssuingAuthority" placeholder="Кем выдан"></div>
+                <div class="form_section_data_row_cell required"><label for="dadDocIssuingAuthority">Кем выдан:</label></div>
+                <div class="form_section_data_row_cell"><input type="text" class="form_data" name="dadDocIssuingAuthority" placeholder="Кем выдан"></div>
               </div>
 
               <div class="form_section_data_row">
-                <div class="form_section_data_row_cell required"><label for="momAddressZipCode">Индекс:</label></div>
-                <div class="form_section_data_row_cell"><input type="text" class="form_data" name="momAddressZipCode" placeholder="Индекс"></div>
+                <div class="form_section_data_row_cell required"><label for="dadddressZipCode">Индекс:</label></div>
+                <div class="form_section_data_row_cell"><input type="text" class="form_data" name="dadAddressZipCode" placeholder="Индекс"></div>
               </div>
               <div class="form_section_data_row">
-                <div class="form_section_data_row_cell required"><label for="momAddressRegion">Область:</label></div>
-                <div class="form_section_data_row_cell"><input type="text" class="form_data" name="momAddressRegion" placeholder="Область"></div>
+                <div class="form_section_data_row_cell required"><label for="dadAddressRegion">Область:</label></div>
+                <div class="form_section_data_row_cell"><input type="text" class="form_data" name="dadAddressRegion" placeholder="Область"></div>
               </div>
               <div class="form_section_data_row">
-                <div class="form_section_data_row_cell required"><label for="momAddressDisctric">Район:</label></div>
-                <div class="form_section_data_row_cell"><input type="text" class="form_data" name="momAddressDisctric" placeholder="Район"></div>
+                <div class="form_section_data_row_cell required"><label for="dadAddressDisctric">Район:</label></div>
+                <div class="form_section_data_row_cell"><input type="text" class="form_data" name="dadAddressDisctric" placeholder="Район"></div>
               </div>
               <div class="form_section_data_row">
-                <div class="form_section_data_row_cell required"><label for="momAddressCity">Город:</label></div>
-                <div class="form_section_data_row_cell"><input type="text" class="form_data" name="momAddressCity" placeholder="Город"></div>
+                <div class="form_section_data_row_cell required"><label for="dadAddressCity">Город:</label></div>
+                <div class="form_section_data_row_cell"><input type="text" class="form_data" name="dadAddressCity" placeholder="Город"></div>
               </div>
               <div class="form_section_data_row">
-                <div class="form_section_data_row_cell required"><label for="momAdressStreet">Ул., д., кв.:</label></div>
-                <div class="form_section_data_row_cell"><input type="text" class="form_data" name="momAdressStreet" placeholder="Ул., д., кв."></div>
+                <div class="form_section_data_row_cell required"><label for="dadAdressStreet">Ул., д., кв.:</label></div>
+                <div class="form_section_data_row_cell"><input type="text" class="form_data" name="daddressStreet" placeholder="Ул., д., кв."></div>
               </div>
             </div>
           </div>
